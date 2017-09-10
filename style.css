@@ -1,0 +1,97 @@
+
+a:link {
+	color: #5871BA; 
+	text-decoration: none;
+}
+
+a:visited {
+	color: #5871BA; 
+	text-decoration: none;
+}
+
+a:active {
+	color: #5871BA; 
+	text-decoration: none;
+}
+
+.tb {
+	border: 1px dotted #000000;
+}
+
+a:hover {
+	color: #FFFFFF; 
+	text-decoration: none;
+	opacity:0.5;
+	cursor:pointer;
+}
+
+body, td {
+	font-family: Palatino Linotype;
+	font-size: 37px;
+	color: #FFFFFF;
+	background-image: url("bgtile3.jpg");
+
+}
+body {
+	font-family: 'Palatino Linotype', sans-serif;
+	background-color:#000000
+	
+}
+
+
+
+
+content {
+
+	display: block;
+
+	img {
+
+		margin:0px auto;
+		width:100%;
+
+	}
+
+}
+
+.comic {
+
+	width:100%;
+	height:auto;
+
+}
+
+current-issue {
+
+	display:block; width:60%; margin:0px auto;
+
+}
+
+banner img {
+
+	margin:0px auto;
+
+    display: block;
+    margin: auto;
+}
+ 
+
+nav {
+	padding:12px;	
+	display:block; width:73%; margin:0px auto;background-size: contain;
+	
+	font-size:1.2rem;
+	font-weight:bold;
+	line-height:1.2rem;
+	text-align:center;
+	color:#53539D;
+}
+
+
+nav a {
+	
+	margin:0px auto;
+	padding:12px;
+
+}
+
